@@ -1,0 +1,16 @@
+.DS_Store
+*.cywrk.*        
+*.cyprj.*        
+*.cycdx        
+*.cyfit        
+*.rpt              
+*.uvopt        
+*.uvproj        
+*_timing.html        
+*.cydsn/codegentemp        
+*.cydsn/DP8051        
+*.cydsn/Generated_Source
+*/CortexM3
+*.log
+*.svd
+*/Export
